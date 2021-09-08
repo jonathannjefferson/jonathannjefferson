@@ -1,11 +1,11 @@
- - <b>Name:</b>  <a href="https://rayanagoncalves.github.io/site-pessoal/#inicio">Rayana Gonçalves</a>
-- <b>Age:</b> 22 years
-- <b>Pronuns:</b> She/Her
+ - <b>Name:</b>  <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/">Jonathann Jefferson</a>
+- <b>Age:</b> 23 years
+- <b>Pronuns:</b> He/Him
 - <b>Lives in:</b> Recife/PE 🌴 
 
 - 🔭 Atualmente Trabalho na MV SISTEMAS como Desenvolvedor BackEnd tendo a principal linguagem JAVA.
 - 🌱 Atualmente Estudando Docker
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a>jonathann.jefferson10@gmail.com</a>
 -->
 
 
