@@ -1,12 +1,9 @@
  - <b>Name:</b>  <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/">Jonathann Jefferson</a>
-- <b>Age:</b> 23 years
-- <b>Pronuns:</b> He/Him
-- <b>Lives in:</b> Recife/PE 🌴 
-
-- 🔭 Atualmente Trabalho na MV SISTEMAS como Desenvolvedor BackEnd tendo a principal linguagem JAVA.
-- 🌱 Atualmente Estudando Docker
-- 📫 How to reach me: <a>jonathann.jefferson10@gmail.com</a>
--->
+- ⏲️ Age:</b> 23 years
+- 👨‍💻 Pronuns:</b> He/Him
+- 🌇 <b>Lives in:</b> Recife/PE 🌴 
+- 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
+- 🥇3x Three times voted the best web developer in Carpina/PE
 
 
 <a href="https://github.com/jonathannjefferson">
@@ -19,5 +16,4 @@
   <img align="center" alt="JJ-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JJ-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JJ-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="JJ-yoda" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif">
 </div>
