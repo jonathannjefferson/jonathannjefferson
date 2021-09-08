@@ -1,7 +1,7 @@
 ### About me 👨‍💻 
 - <b>Name:</b>  <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/">Jonathann Jefferson</a>
 - ⏲️ Age:</b> 23 years
-- 👨‍💻 Pronuns:</b> He/Him
+- 👨‍💻 Pronouns:</b> He/Him
 - 🌇 <b>Lives in:</b> Recife/PE 🌴 
 - 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
 - 🥇3x Three times voted the best web developer in Carpina/PE
