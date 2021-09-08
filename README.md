@@ -36,14 +36,5 @@
   <a href="mailto:jonathann.jefferson10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+  ![Snake animation](https://github.com/jonathannjefferson/jonathannjefferson/blob/output/github-contribution-grid-snake.svg)
  </div>
- 
-##
- 
-<div>
-  <a href="https://github.com/jonathannjefferson"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathannjefferson&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannjefferson&layout=compact&langs_count=7&theme=light"/>
-    
-       ![Snake animation](https://github.com/jonathannjefferson/jonathannjefferson/blob/output/github-contribution-grid-snake.svg)
-</div> 
