@@ -1,6 +1,6 @@
 ### About me 👨‍💻 
 - <b>Name:</b>  <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/">Jonathann Jefferson</a>
-- ⏲️ Age:</b> 23 years
+- ⏲️ Age:</b> 24 years
 - 👨‍💻 Pronouns:</b> He/Him
 - 🌇 <b>Lives in:</b> Recife/PE 🌴 
 - 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
