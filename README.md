@@ -4,7 +4,7 @@
 - 👨‍💻 Pronouns:</b> He/Him
 - 🌇 <b>Lives in:</b> Recife/PE 🌴 
 - 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
-- 👨‍💻 Cientista da computação - FNR 
+- 👨‍💻 Bacharel em Ciencias da computação - FNR
 - 👨‍💻 Pós graduado em engenharia de software - Anhanguera Educacional
 - 🥇3x Three times voted the best web developer in Carpina/PE
 
