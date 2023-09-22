@@ -11,7 +11,7 @@
 
 
 <a href="https://github.com/jonathannjefferson"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathannjefferson&layout=compact&langs_count=7&theme=github_dark"/>
+  </div>
 <b>Languages:</b><br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jonathann-JAVA" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/> 
