@@ -6,6 +6,7 @@
 - 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
 - 👨‍💻 Bacharel em Ciencias da computação - FNR
 - 👨‍💻 Pós graduado em engenharia de software - Anhanguera Educacional
+- 👨‍💻 Pós graduado em MBA Gestão de Projetos em TI - Anhanguera Educacional
 - 🥇3x Three times voted the best web developer in Carpina/PE
 
 
