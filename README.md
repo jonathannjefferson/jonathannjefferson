@@ -7,7 +7,7 @@
 - 👨‍💻 Bacharel em Ciencias da computação - FNR
 - 👨‍💻 Pós graduado em engenharia de software - Anhanguera Educacional
 - 👨‍💻 Pós graduado em MBA Gestão de Projetos em TI - Anhanguera Educacional
-- 🥇3x Three times voted the best web developer in Carpina/PE
+- 🥇 4x Three times voted the best web developer in Carpina/PE
 
 
 <a href="https://github.com/jonathannjefferson"></a>
