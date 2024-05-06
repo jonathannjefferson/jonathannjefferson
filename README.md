@@ -2,7 +2,7 @@
 - <b>Name:</b>  <a href="https://www.linkedin.com/in/jonathann-jefferson-21a682134/">Jonathann Jefferson</a>
 - ⏲️ Age:</b> 26 years
 - 👨‍💻 Pronouns:</b> He/Him
-- 🌇 <b>Lives in:</b> Recife/PE 🌴 
+- 🌇 <b>Lives in:</b> Carpina/PE 🌴 
 - 📫 Contato: <a>jonathann.jefferson10@gmail.com</a>
 - 👨‍💻 Bacharel em Ciencias da computação - FNR
 - 👨‍💻 Pós graduado em engenharia de software - Anhanguera Educacional
