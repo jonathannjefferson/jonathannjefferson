@@ -7,7 +7,7 @@
 - 👨‍💻 Bacharel em Ciencias da computação - FNR
 - 👨‍💻 Pós graduado em engenharia de software - Anhanguera Educacional
 - 👨‍💻 Pós graduado em MBA Gestão de Projetos em TI - Anhanguera Educacional
-- 🥇 4x Three times voted the best web developer in Carpina/PE
+- 🥇 3x voted the best web developer in Carpina/PE
 
 
 <a href="https://github.com/jonathannjefferson"></a>
@@ -21,6 +21,8 @@
   <img align="center" alt="Jonathann-GIT" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Jonathann-GITLAB" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   <img align="center" alt="Jonathann-GITHUB" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Jonathann-Kotlin" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"/>
+  <img align="center" alt="Jonathann-SpringBoot" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
 </div><br>
 
  
